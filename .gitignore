@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.now/
+.vscode/
+dist/
+node_modules/
+target/
+*.tsbuildinfo
+.jest_cache
+*:Zone.Identifier
